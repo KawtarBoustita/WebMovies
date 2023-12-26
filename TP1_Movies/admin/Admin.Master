@@ -1,0 +1,30 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin.master.cs" Inherits="TP1_Movies.admin.Admin" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>TP1 Movies</title>
+    <link href="../styles/admin.css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+    <form id="form" runat="server">
+        <div class="wrapper">
+            <div class="header">
+                Admin Portal
+            </div>
+            <div class="main">
+                <asp:Panel ID="pnlSidebar" runat="server" CssClass="sidebar">
+                    <a ID="lnkMovies" href="/admin/movies/list.aspx" runat="server">Movies</a>
+                    <a ID="lnkUsers" href="/admin/users/list.aspx" runat="server">Users</a>
+                    <asp:LinkButton ID="btnLogout" Text="Logout" OnClick="btnLogout_Click" runat="server" />
+                </asp:Panel>
+                <asp:ContentPlaceHolder ID="AdminContent" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+            <div class="footer"></div>
+        </div>
+    </form>
+</body>
+</html>

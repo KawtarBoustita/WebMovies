@@ -1,0 +1,23 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="TP1_Movies.site.Site" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>TP1 Movies</title>
+    <link href="../styles/style.css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+    <form id="form" runat="server">
+        <div class="wrapper">
+            <div class="header">Movies Database</div>
+            <div class="main">
+                <asp:ContentPlaceHolder ID="SiteContent" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+            <div class="footer"></div>
+        </div>
+    </form>
+</body>
+</html>

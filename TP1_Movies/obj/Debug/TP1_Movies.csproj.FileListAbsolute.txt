@@ -1,0 +1,201 @@
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\obj\Debug\TP1_Movies.csproj.CoreCompileInputs.cache
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\TP 1 Movies.dll.config
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\TP 1 Movies.dll
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\TP 1 Movies.pdb
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\roslyn\csc.exe
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\roslyn\csc.exe.config
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\roslyn\csc.rsp
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\roslyn\csi.exe
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\roslyn\csi.exe.config
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\roslyn\csi.rsp
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\roslyn\System.AppContext.dll
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\roslyn\System.Collections.Immutable.dll
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\roslyn\System.Console.dll
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\roslyn\System.Globalization.Calendars.dll
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\roslyn\System.IO.Compression.dll
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\roslyn\System.IO.FileSystem.dll
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\roslyn\System.Net.Http.dll
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\roslyn\System.Net.Sockets.dll
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\roslyn\System.Reflection.Metadata.dll
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\roslyn\System.ValueTuple.dll
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\roslyn\System.Xml.XPath.dll
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\roslyn\vbc.exe
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\roslyn\vbc.exe.config
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\roslyn\vbc.rsp
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\roslyn\VBCSCompiler.exe
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\roslyn\VBCSCompiler.exe.config
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\obj\Debug\TP1_Movies.csproj.CopyComplete
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\obj\Debug\TP 1 Movies.dll
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\obj\Debug\TP 1 Movies.pdb
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\obj\Debug\TP1_Movies.csproj.AssemblyReference.cache
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\Newtonsoft.Json.dll
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\System.Net.Http.Formatting.dll
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\System.Web.Http.dll
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\System.Web.Http.WebHost.dll
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\Newtonsoft.Json.xml
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\System.Net.Http.Formatting.xml
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\System.Web.Http.xml
+D:\Work\OFPPT\Enseignement\Support Cours\TDI\2ème année\Développement Web Côté Serveur\App Projects\TP 1 Movies\bin\System.Web.Http.WebHost.xml
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\TP 1 Movies.dll.config
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\TP 1 Movies.dll
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\TP 1 Movies.pdb
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\csc.exe
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\csc.exe.config
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\csc.rsp
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\csi.exe
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\csi.exe.config
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\csi.rsp
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\Microsoft.Managed.Core.targets
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\System.AppContext.dll
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\System.Collections.Immutable.dll
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\System.Console.dll
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\System.Globalization.Calendars.dll
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\System.IO.Compression.dll
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\System.IO.FileSystem.dll
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\System.Net.Http.dll
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\System.Net.Sockets.dll
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\System.Reflection.Metadata.dll
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\System.ValueTuple.dll
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\System.Xml.XmlDocument.dll
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\System.Xml.XPath.dll
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\vbc.exe
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\vbc.exe.config
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\vbc.rsp
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\VBCSCompiler.exe
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\VBCSCompiler.exe.config
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\Newtonsoft.Json.dll
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\System.Net.Http.Formatting.dll
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\System.Web.Http.dll
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\System.Web.Http.WebHost.dll
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\Newtonsoft.Json.xml
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\System.Net.Http.Formatting.xml
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\System.Web.Http.xml
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\System.Web.Http.WebHost.xml
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\obj\Debug\TP1_Movies.csproj.AssemblyReference.cache
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\obj\Debug\TP1_Movies.csproj.CoreCompileInputs.cache
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\obj\Debug\TP1_Movies.csproj.CopyComplete
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\obj\Debug\TP 1 Movies.dll
+C:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\obj\Debug\TP 1 Movies.pdb
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\TP 1 Movies.dll.config
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\TP 1 Movies.dll
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\TP 1 Movies.pdb
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\csc.exe
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\csc.exe.config
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\csc.rsp
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\csi.exe
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\csi.exe.config
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\csi.rsp
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\Microsoft.Managed.Core.targets
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\System.AppContext.dll
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\System.Collections.Immutable.dll
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\System.Console.dll
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\System.Globalization.Calendars.dll
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\System.IO.Compression.dll
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\System.IO.FileSystem.dll
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\System.Net.Http.dll
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\System.Net.Sockets.dll
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\System.Reflection.Metadata.dll
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\System.ValueTuple.dll
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\System.Xml.XmlDocument.dll
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\System.Xml.XPath.dll
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\vbc.exe
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\vbc.exe.config
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\vbc.rsp
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\VBCSCompiler.exe
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\roslyn\VBCSCompiler.exe.config
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\Newtonsoft.Json.dll
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\System.Net.Http.Formatting.dll
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\System.Web.Http.dll
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\System.Web.Http.WebHost.dll
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\Newtonsoft.Json.xml
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\System.Net.Http.Formatting.xml
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\System.Web.Http.xml
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\System.Web.Http.WebHost.xml
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\obj\Debug\TP1_Movies.csproj.AssemblyReference.cache
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\obj\Debug\TP1_Movies.csproj.CoreCompileInputs.cache
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\obj\Debug\TP1_Movies.csproj.CopyComplete
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\obj\Debug\TP 1 Movies.dll
+D:\disk-C-hp\asp.net\projet\TP Movies\TP Movies\obj\Debug\TP 1 Movies.pdb
